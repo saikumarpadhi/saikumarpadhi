@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikumar Padhi</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/saikumarpadhi/saikumarpadhi/main/banner-3.png"> </div>
 <h3 align="center">Full Stack Development Trainee | CCBPian at NxtWave | React JS, Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumarpadhi&label=Profile%20views&color=0e75b6&style=flat" alt="saikumarpadhi" /> </p>
@@ -31,3 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikumarpadhi&" alt="saikumarpadhi" /></p>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=saikumarpadhi&limit=5&theme=flat&combine_all_yearly_contributions=true)
