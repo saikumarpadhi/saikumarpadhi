@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikumar Padhi</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/saikumarpadhi/saikumarpadhi/main/banner-3.png"> </div>
+
 <h3 align="center">Full Stack Development Trainee | CCBPian at NxtWave | React JS, Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumarpadhi&label=Profile%20views&color=0e75b6&style=flat" alt="saikumarpadhi" /> </p>
