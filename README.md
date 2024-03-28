@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **fullstack development with a specialization in 4.0 technologies. In love with the coding challenges and hands-on projects. With Industry’s first ever IRC 4.0, getting ready to take on new challenges in the tech world.**
 
-- 👯 I’m looking to collaborate on [FOOD MUNCH](foodwithsai.ccbp.tech)
+- 👯 I’m looking to collaborate on [FOOD MUNCH](https://foodwithsai.ccbp.tech/)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/padhi-sai/](https://www.linkedin.com/in/padhi-sai/)
+- 👨‍💻 All of my projects are available at [https://in.linkedin.com/in/saipadhi](https://in.linkedin.com/in/saipadhi)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, SQL, Python, Java, reactjs.**
+- 💬 Ask me about **HTML, CSS, JavaScript, SQL, Python, Java, ReactJS.**
 
 - 📫 How to reach me **saikumarpadhi6@gmail.com**
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/padhi-sai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="padhi-sai/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saipadhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saipadhi/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
