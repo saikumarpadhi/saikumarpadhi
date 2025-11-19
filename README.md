@@ -100,6 +100,5 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saikumarpadhi&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
+### 📌 Recent Repositories
+[![Saikumar's recent repos](https://github-readme-stats.vercel.app/api?username=saikumarpadhi&show_icons=true&count_private=true&include_all_commits=true)]()
